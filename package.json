@@ -1,0 +1,20 @@
+{
+  "name": "Employee-Directory",
+  "version": "1.0.0",
+  "description": "Github License Employee Directory Project Description This deployed web app uses React JS to populate a searchable and sortable employee directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teli203/Employee-Directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teli203/Employee-Directory/issues"
+  },
+  "homepage": "https://github.com/teli203/Employee-Directory#readme"
+}
